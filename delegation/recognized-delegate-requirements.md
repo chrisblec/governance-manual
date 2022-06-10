@@ -44,7 +44,7 @@ If you are completely unfamiliar with GitHub, the Governance Facilitators can he
 
 Participation tracking is currently done manually by GovAlpha, but will hopefully be automated in the future. Abstain votes count as valid votes for the purposes of poll participation.
 
-Failing to vote on an executive is valid and should be done in an emergency situation, or a situation in which the delegate has fundamental disagreement with the contents. However, failing to vote for an executive does count against you as part of the participation tracking. This reflects the issues failing to pass an executive can have in the MakerDAO governance process.
+Failing to vote on an executive is valid and should be done in an emergency situation, or a situation in which the delegate has fundamental disagreement with the contents. Failing to vote for an executive does not count against you as part of the participation tracking if you are able to provide sound reasoning for your abstention. If an executive fails due to your abstention, you will still receive full credit for your participation in the vote.
 
 Forum and community participation will also be tracked, specifically related to voting. Recognized Delegates are expected to communicate their reasoning for voting when they vote. This can be in whichever format delegates feel is most appropriate, but must be communicated publicly so that GovAlpha can update the delegate's metrics.
 
